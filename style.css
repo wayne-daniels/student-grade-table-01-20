@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin: 2.5%;
+  justify-content: center;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
