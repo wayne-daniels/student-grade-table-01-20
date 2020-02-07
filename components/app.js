@@ -33,3 +33,4 @@ class App {
 function newFunction() {
   return 0;
 }
+
