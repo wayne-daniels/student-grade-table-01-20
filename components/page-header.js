@@ -4,5 +4,7 @@ class PageHeader{
   }
   updateAverage(newAverage){
     console.log(newAverage);
+    var grAv = document.querySelector("span");
+    grAv.textContent = newAverage;
   }
 }
