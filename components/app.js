@@ -21,6 +21,9 @@ class App {
     var avGrade = gradeTotal / grades.length;
     this.pageHeader.updateAverage(avGrade);
   }
+   var avGrade = gradeTotal / grades.length;
+   this.pageHeader.updateAverage(avGrade);
+ }
   getGrades() {
     $.ajax({
       type: "GET",
@@ -56,3 +59,5 @@ class App {
     this.getGrades();
   }
 }
+
+
