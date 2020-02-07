@@ -30,6 +30,3 @@ class App {
     this.getGrades();
   }
 }
-function newFunction() {
-  return 0;
-}
