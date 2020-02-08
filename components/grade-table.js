@@ -48,5 +48,5 @@ class GradeTable {
       tRow.appendChild(delButt);
       return tRow;
     }
-
-}
+ 
+  }
