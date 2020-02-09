@@ -81,6 +81,3 @@ class App {
     this.getGrades();
   }
 }
-
-
-
